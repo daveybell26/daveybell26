@@ -1,18 +1,13 @@
 ### Hi there 👋, I'm David, a full-stack developer from London.
 
-I'm a full stack developer
+I'm a full stack developer at Munro Bagger and petZpic utilising Postgress SQL and React Native.
+I'm enthusiastic about mobile web development, Back-end Architecture and designing beautiful and functional UIs.
+I am a former commercial airline pilot, Royal Naval Officer and Commando.
+In my spare time I enjoy running, swimming and skiing.
 
-<!--
-**daveybell26/daveybell26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on petZpic, using React Native and Typescript.
+- 🌱 I’m currently learning Typescript.
+- 💬 Ask me about: aircraft.
+- 📫 How to reach me: david.jbell@outlook.com
+- ⚡ Fun fact: I lived in Geneva for 5 years and speak conversational French.
