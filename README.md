@@ -5,6 +5,9 @@ I'm enthusiastic about mobile web development, Back-end Architecture and designi
 I am a former commercial airline pilot, Royal Naval Officer and Commando.
 In my spare time I enjoy running, swimming and skiing.
 
+## Find me on:
+<a href="https://www.linkedin.com/in/david-bell-0955531aa/"
+
 
 - 🔭 I’m currently working on Munro Bagger, using React Native and Typescript.
 - 🌱 I’m currently learning Typescript.
