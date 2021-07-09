@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm David, a full-stack developer from London.
+
+I'm a full stack developer
 
 <!--
 **daveybell26/daveybell26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
