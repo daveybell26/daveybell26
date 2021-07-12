@@ -15,3 +15,5 @@ In my spare time I enjoy running, swimming and skiing.
 - 🌱 I’m currently learning Typescript.
 - 💬 Ask me about: aircraft.
 - ⚡ Fun fact: I lived in Geneva for 5 years and speak conversational French.
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width:100%;">
