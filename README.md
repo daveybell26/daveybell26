@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm David, a full-stack developer from London.
-I'm a full stack developer at Munro Bagger and petZpic, utilising Postgress SQL and React Native.
+I'm a full stack developer at Munro Bagger and petZpic, utilising PostgreSQL and React Native.
 I'm enthusiastic about mobile web development, back-end architecture and designing beautiful and functional UIs.
 I am a former commercial airline pilot, Royal Naval Officer and Commando.
-In my spare time I enjoy running, swimming, hiking int he Scottish mountains and skiing.
+In my spare time I enjoy running, swimming, hiking in the Scottish mountains and skiing.
 
 ## 📫 Find me on:
  <a href="https://www.linkedin.com/in/davejbell/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
