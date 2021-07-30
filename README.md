@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm David, a full-stack developer from London.
-I'm a full stack developer at Munro Bagger and petZpic, utilising PostgreSQL and React Native.
+I'm a full stack developer at Munro Bagger utilising PostgreSQL and React Native.
 I'm enthusiastic about mobile web development, back-end architecture and designing beautiful and functional UIs.
 I am a former commercial airline pilot, Royal Naval Officer and Commando.
 In my spare time I enjoy running, swimming, hiking in the Scottish mountains and skiing.
