@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm David, a full-stack developer from London.
-I'm a full stack developer at Munro Bagger utilising PostgreSQL and React Native.
+I'm a full stack developer at Post Office Ltd utilising Typescript, React, React Native and AWS.
 I'm enthusiastic about mobile web development, back-end architecture and designing beautiful and functional UIs.
 I am a former commercial airline pilot, Royal Naval Officer and Commando.
 In my spare time I enjoy running, swimming, hiking in the Scottish mountains and skiing.
@@ -11,7 +11,7 @@ In my spare time I enjoy running, swimming, hiking in the Scottish mountains and
 
 
 - 🔭 I’m currently working on Munro Bagger, using React Native and Typescript.
-- 🌱 I’m currently learning Typescript.
+- 🌱 I’m currently learning GO.
 - 💬 Ask me about: aircraft.
 - ⚡ Fun fact: I lived in Geneva for 5 years and speak conversational French.
 
