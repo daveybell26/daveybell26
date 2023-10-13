@@ -1,8 +1,8 @@
-### Hi there 👋, I'm David, a full-stack developer from London.
-I'm a full stack developer at Post Office Ltd utilising Typescript, React, React Native and AWS.
+### Hi there 👋, I'm David, a full-stack developer and airline pilot living in Geneva.
+I'm a free lance full stack developer utilising Typescript, React, React Native and AWS.
 I'm enthusiastic about mobile web development, back-end architecture and designing beautiful and functional UIs.
-I am a former commercial airline pilot, Royal Naval Officer and Commando.
-In my spare time I enjoy running, swimming, hiking in the Scottish mountains and skiing.
+I am a former Royal Naval Officer and Commando.
+In my spare time I enjoy running, swimming, hiking in the mountains and skiing.
 
 ## 📫 Find me on:
  <a href="https://www.linkedin.com/in/davejbell/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
@@ -13,7 +13,7 @@ In my spare time I enjoy running, swimming, hiking in the Scottish mountains and
 - 🔭 I’m currently working on Munro Bagger, using React Native, Typescript, GraphQL and Node.js.
 - 🌱 I’m currently learning GO.
 - 💬 Ask me about: aircraft.
-- ⚡ Fun fact: I lived in Geneva for 5 years and speak conversational French.
+- ⚡ Fun fact: I currently live in Geneva and am learning French.
 
 ## Languages and Tools
 
