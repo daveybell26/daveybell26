@@ -10,7 +10,7 @@ In my spare time I enjoy running, swimming, hiking in the mountains and skiing.
 
 
 
-- 🔭 I’m currently working on Munro Bagger, using React Native, Typescript, GraphQL and Node.js.
+- 🔭 I’m currently working on Munro Bagger, using React Native, Typescript, Prisma and Node.js.
 - 🌱 I’m currently learning GO.
 - 💬 Ask me about: aircraft.
 - ⚡ Fun fact: I currently live in Geneva and am learning French.
